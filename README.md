@@ -1,2 +1,2 @@
 # Project
-Projects thus far
+Simple inventory system in c++
